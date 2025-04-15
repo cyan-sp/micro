@@ -16,6 +16,4 @@ public class AerolineaController extends CommonsController<AerolineaDTO, Aerolin
 		super(service);
 	}
 
-	
-	
 }

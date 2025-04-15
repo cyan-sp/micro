@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.nahum</groupId>
-	<artifactId>microservicio-aerololineas</artifactId>
+	<artifactId>microservicio-aerolineas</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>microservicio-aerolineas</name>
 	<description>Archivo commons que usaran los microservicios</description>
